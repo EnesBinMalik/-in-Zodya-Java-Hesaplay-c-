@@ -1,0 +1,6 @@
+{
+  "name": "Çin Zodyağı & Java Hesaplayıcı",
+  "description": "Doğum yılına göre Çin Zodyağı burcunu hesaplayan interaktif uygulama ve Enes Öztürk imzalı Java kaynak kodu simülatörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
